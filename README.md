@@ -2,6 +2,7 @@
 <div align="center">
   <img src="poster_resize.png" width="500">
 </div>
+
 ## Project Overview
 
 Welcome to the dawn of the commercial space age, where companies like Virgin Galactic, Rocket Lab, Blue Origin, and SpaceX are pioneering affordable space travel. Among these, SpaceX stands out with its impressive accomplishments, including regular International Space Station missions, the Starlink project, and manned space missions. A significant factor in SpaceX's success is its cost-effective approach, notably the reuse of the Falcon 9 rocket's first stage, dramatically reducing launch costs.
