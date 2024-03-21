@@ -26,7 +26,9 @@ SpaceX's cutting-edge approach to space travel served as inspiration for the pro
 - `dashboards/`: Interactive dashboards showcasing insights about SpaceX launches and model predictions.
 
 ## Tools and Technologies
-
-- Data Analysis and Visualization
-- Machine Learning
+- Webscraping
+- Data Wrangling
+- Data Analysis and Visualization & Folium Map
+- Supervised Machine Learning Predictive Models
+- Dashboard with Plotly Dash
 
