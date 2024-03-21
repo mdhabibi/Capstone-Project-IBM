@@ -1,6 +1,6 @@
 # Applied-Data-Science-Capstone
 <div align="center">
-  <img src="poster_resize.png" width="500">
+  <img src="poster.png" width="500">
 </div>
 
 ## Project Overview
