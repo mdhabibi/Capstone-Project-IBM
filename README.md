@@ -29,6 +29,7 @@ SpaceX's cutting-edge approach to space travel served as inspiration for the pro
 - Webscraping
 - Data Wrangling
 - Data Analysis and Visualization & Folium Map
+- SQL & Db2 database
 - Supervised Machine Learning Predictive Models
 - Dashboard with Plotly Dash
 
